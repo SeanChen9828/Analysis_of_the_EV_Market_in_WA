@@ -49,6 +49,6 @@ pie title CAFV Eligibility
     "Unknown (9.5%)" : 9.5
 ```
 
-## 🔍 Summary
+## 📝 Summary
 The data highlights Tesla’s market dominance, the preference for BEVs with longer ranges, and the significant role of policy incentives in driving EV adoption. Urban centers are the primary adoption hubs, while technological advancements and policy adjustments will shape future trends. Strategic focus on infrastructure, consumer education, and competitive offerings will be key to sustaining growth in the EV market.
 
