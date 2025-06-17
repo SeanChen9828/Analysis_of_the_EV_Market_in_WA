@@ -12,13 +12,11 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 ---
 
 ### 📂 Dataset Description
-**Source**: Washington State Department of Licensing (DOL)  
-**Content**:
-- **Electric Vehicle Type:** Battery Electric Vehicles (BEVs) and Plug-in Hybrids (PHEVs)
-- **Data Updated:** May 17, 2025 (Registration records up to 2025)
-- **Key fields:** County, Make, Model, Electric Vehicle Type, Clean Alternative Fuel Vehicle (CAFV) Eligibility, Electric Range
-- **Size:** ~250,000 vehicle records
-
+- **📍 Publisher:** [data.wa.gov](https://data.wa.gov)  
+- **🔗 Source:** Washington State Department of Licensing (DOL) [View Dataset on Data.gov](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+- **🗓️ Metadata Updated:** May 17, 2025
+- **✨ Key fields:** County, Make, Model, Electric Vehicle Type, Clean Alternative Fuel Vehicle (CAFV) Eligibility, Electric Range
+- **📌 Size:** ~250,000 vehicle records
 ---
 
 ### 🛠️ Analytical Approach
