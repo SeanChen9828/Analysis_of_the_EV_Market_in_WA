@@ -2,7 +2,7 @@
   <img src="Pic_Inserted/excel.png" width="100%" height = "200" alt="Excel Background Visual"/>
 </p>
 
-## Electric Vehicle Population Analysis: Washington State
+## 🚗 Electric Vehicle Population Analysis: Washington State
 
 ---
 
