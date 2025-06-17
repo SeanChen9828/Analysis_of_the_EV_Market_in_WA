@@ -23,25 +23,25 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 
 ### 🛠️ Analytical Approach
 1. **Data Processing** (Python):
-   - **Step 1: Data Collection / Loading**
+   - 🧾 **Step 1: Data Collection / Loading**
      - Importing basic Lib resources used in this data analysis, like pandas,numpy,matplotlib and seaborn
      - Loading data from Electric_Vehicle_Population_Data.CSV using pandas
 
-   - **Step 2: Data Inspection**
+   - 🔍 **Step 2: Data Inspection**
      -  Using .head(), .info(), .describe() to understand data shape, types, and basic stats
      -  Describing the columns filled in value
 
-   - **Step 3: Data Cleansing**
+   - 🧹 **Step 3: Data Cleansing**
      -  Identifying and handling missing or null values
      -  Coping with 0 values by replacing them with NaN or statistic values
 
-   - **Step 4: Exploratory Data Analysis (EDA)**
+   - 📊 **Step 4: Exploratory Data Analysis (EDA)**
      - Visualizing distributions, trends, and relationships using matplotlib, seaborn,plotly
 
-   - **Step 5: Reporting & Interpretation**
+   - 💡 **Step 5: Reporting & Interpretation**
      - Concluding the key findings with charts and graphs
 
-   - **Step 6: Export Results**
+   - 📤 **Step 6: Export Results**
      - Saving cleaned datasets as '.csv'
 
 2. **Analysis Dimensions**:
