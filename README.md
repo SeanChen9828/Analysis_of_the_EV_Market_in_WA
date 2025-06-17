@@ -22,8 +22,8 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 ### 🛠️ Analytical Approach
 1. **Data Processing** (Python):
    - 🧾 **Step 1: Data Collection / Loading**
-     - Importing basic Lib resources used in this data analysis, like pandas,numpy,matplotlib and seaborn
-     - Loading data from Electric_Vehicle_Population_Data.CSV using pandas
+     > Importing basic Lib resources used in this data analysis, like pandas,numpy,matplotlib and seaborn
+     > Loading data from Electric_Vehicle_Population_Data.CSV using pandas
 
    - 🔍 **Step 2: Data Inspection**
      -  Using .head(), .info(), .describe() to understand data shape, types, and basic stats
@@ -59,27 +59,41 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 1. **Market Overview: EV Distribution in Washington State**
    - **Top Counties by EV Population:** **King County** leads with the highest number of EVs, followed by **Pierce**, **Thurston**, and **Kitsap** counties. These areas represent the primary hotspots for EV adoption in Washington State.
    - **Implication:** Urban and densely populated regions are driving EV adoption, likely due to better infrastructure and higher awareness.
-
+<p align="center">
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+</p>
 
 2. **Brand Competition: Market Share and Leaders**
    - **Dominant Brands:** **Tesla** is the clear market leader with the highest number of registered EVs, significantly outpacing competitors like **Chevrolet**, **Nissan**, and **Ford**.
    - **Emerging Competitors:** **Rivian** and **Jeep**, though smaller in volume, are notable entrants in the EV market.
    - **Implication:** Tesla’s strong presence underscores its brand dominance, while traditional automakers like Chevrolet and Ford are also key players.
+<p align="center">
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+</p>
 
 3. **Technological Evolution: Electric Range Trends**
    - **Range Improvement:** The electric range of EVs has shown a **progressive increase** over the years (2010–2025), with brands like Tesla, Audi, and Porsche offering some of the highest ranges.
    - **Brand Comparison:** **Tesla** consistently leads in range performance, while brands like **Nissan** and **Hyundai** show competitive but lower ranges.
    - **Vehicle Types:** Battery Electric Vehicles (BEVs) dominate the market (**79.3%**), far exceeding Plug-in Hybrid Electric Vehicles (PHEVs) (**20.7%**).
    - **Implication:** Consumers prefer BEVs, possibly due to advancements in battery technology and longer ranges.
+<p align="center">
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+</p>
 
 4. **Policy Impact: CAFV Eligibility**
    - **Eligibility Distribution:** Approximately **30.5%** of EVs qualify as Clean Alternative Fuel Vehicle (CAFV) eligible, while **9.6%** are not eligible due to low battery range. A large percentage (**60%**) have unknown eligibility.
    - **Implication:** Policy incentives like CAFV eligibility are likely influencing consumer choices, with nearly a third of EVs meeting the criteria for benefits.
+<p align="center">
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+</p>
 
 5. **Consumer Insights: Preference Patterns**
    - **Brand Preference:** Tesla’s dominance suggests strong consumer trust and preference for its technology and brand reputation, and Tesla's **Model 3** and **Model Y** are the most popular vehicle models.
    - **Range Preference:** The trend toward higher electric ranges indicates that consumers prioritize vehicles with longer driving capabilities.
    - **Implication:** Marketing strategies should emphasize range and brand reliability to attract potential buyers.
+<p align="center">
+  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+</p>
 
 6. **Future Outlook: Predictions and Suggestions**
    - **Growth Areas:** Continued growth in urban counties like **King** and **Pierce** is expected, with potential expansion into suburban areas as infrastructure improves.
