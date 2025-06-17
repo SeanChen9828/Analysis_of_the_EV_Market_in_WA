@@ -94,7 +94,7 @@ This project analyzes Washington State's electric vehicle (EV) registration data
    - **Range Preference:** The trend toward higher electric ranges indicates that consumers prioritize vehicles with longer driving capabilities.
    - **Implication:** Marketing strategies should emphasize range and brand reliability to attract potential buyers.
 <p align="center">
-  <img src="3-Results/3-Top3 Most Popular Models in Each of the Top 10 Brands.png" alt="EMSI Job Change Dashboard"/>
+  <img src="3-Results/3-Top3 Most Popular Models in Each of the Top 10 Brands.png" width="800" alt="EMSI Job Change Dashboard"/>
 </p>
 
 6. **Future Outlook: Predictions and Suggestions**
