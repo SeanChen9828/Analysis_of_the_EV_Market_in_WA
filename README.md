@@ -40,20 +40,19 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 ---
 
 ### 🔑 Key Findings
-
-#### 1. Market Overview: EV Distribution in Washington State
+1. **Market Overview: EV Distribution in Washington State**
 - **Top Counties by EV Population:** King County leads with the highest number of EVs, followed by Pierce, Thurston, and Kitsap counties. These areas represent the primary hotspots for EV adoption in Washington State.
 
 - **Implication:** Urban and densely populated regions are driving EV adoption, likely due to better infrastructure and higher awareness.
 
-#### 2. Brand Competition: Market Share and Leaders
+2. **Brand Competition: Market Share and Leaders**
 - **Dominant Brands:** Tesla is the clear market leader with the highest number of registered EVs, significantly outpacing competitors like Chevrolet, Nissan, and Ford.
 
 - **Emerging Competitors:** Rivian and Jeep, though smaller in volume, are notable entrants in the EV market.
 
 - **Implication:** Tesla’s strong presence underscores its brand dominance, while traditional automakers like Chevrolet and Ford are also key players.
 
-#### 3. Technological Evolution: Electric Range Trends
+3. **Technological Evolution: Electric Range Trends**
 - **Range Improvement:** The electric range of EVs has shown a progressive increase over the years (2010–2025), with brands like Tesla, Audi, and Porsche offering some of the highest ranges.
 
 - **Brand Comparison:** Tesla consistently leads in range performance, while brands like Nissan and Hyundai show competitive but lower ranges.
@@ -62,19 +61,19 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 
 - **Implication:** Consumers prefer BEVs, possibly due to advancements in battery technology and longer ranges.
 
-#### 4. Policy Impact: CAFV Eligibility
+4. **Policy Impact: CAFV Eligibility**
 - **Eligibility Distribution:** Approximately 30.5% of EVs qualify as Clean Alternative Fuel Vehicle (CAFV) eligible, while 9.6% are not eligible due to low battery range. A large percentage (60%) have unknown eligibility.
 
 - **Implication:** Policy incentives like CAFV eligibility are likely influencing consumer choices, with nearly a third of EVs meeting the criteria for benefits.
 
-#### 5. Consumer Insights: Preference Patterns
+5. **Consumer Insights: Preference Patterns**
 - **Brand Preference:** Tesla’s dominance suggests strong consumer trust and preference for its technology and brand reputation, and Tesla's Model 3 and Model Y are the most popular vehicle models.
 
 - **Range Preference:** The trend toward higher electric ranges indicates that consumers prioritize vehicles with longer driving capabilities.
 
 - **Implication:** Marketing strategies should emphasize range and brand reliability to attract potential buyers.
 
-#### 6. Future Outlook: Predictions and Suggestions
+6. **Future Outlook: Predictions and Suggestions**
 - **Growth Areas:** Continued growth in urban counties like King and Pierce is expected, with potential expansion into suburban areas as infrastructure improves.
 
 - **Technological Advancements:** Brands investing in longer-range batteries and faster charging will likely gain a competitive edge.
