@@ -62,7 +62,6 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 <p align="center">
   <img src="3-Results/1-Top10 Counties by EV Population.png" width="400" alt="EMSI Job Change Dashboard"/>
 </p>
----
 
 2. **Brand Competition: Market Share and Leaders**
    - **Dominant Brands:** **Tesla** is the clear market leader with the highest number of registered EVs, significantly outpacing competitors like **Chevrolet**, **Nissan**, and **Ford**.
