@@ -86,7 +86,7 @@ This project analyzes Washington State's electric vehicle (EV) registration data
    - **Eligibility Distribution:** Approximately **30.5%** of EVs qualify as Clean Alternative Fuel Vehicle (CAFV) eligible, while **9.6%** are not eligible due to low battery range. A large percentage (**60%**) have unknown eligibility.
    - **Implication:** Policy incentives like CAFV eligibility are likely influencing consumer choices, with nearly a third of EVs meeting the criteria for benefits.
 <p align="center">
-  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+  <img src="3-Results/7-CAFV Eligibility Distribution.png" width="400" alt="EMSI Job Change Dashboard"/>
 </p>
 
 5. **Consumer Insights: Preference Patterns**
