@@ -79,7 +79,7 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 <p align="center">
   <img src="3-Results/4-Electric Range Distribution by Top 10 EV Brands.png" width="400" alt="Electric Range Distribution by Top 10 EV Brands"/>
   <img src="3-Results/5-Electric Range Trend by Brand.png" width="400" alt="5-Electric Range Trend by Brand"/>
-  <img src="3-Results/4-Electric Range Distribution by Top 10 EV Brands.png" width="400" alt="Electric Range Distribution by Top 10 EV Brands"/>
+  <img src="3-Results/6-Distribution of Electric Vehicle Types.png" width="400" alt="Distribution of Electric Vehicle Types"/>
 </p>
 
 4. **Policy Impact: CAFV Eligibility**
