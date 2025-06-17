@@ -60,8 +60,9 @@ This project analyzes Washington State's electric vehicle (EV) registration data
    - **Top Counties by EV Population:** **King County** leads with the highest number of EVs, followed by **Pierce**, **Thurston**, and **Kitsap** counties. These areas represent the primary hotspots for EV adoption in Washington State.
    - **Implication:** Urban and densely populated regions are driving EV adoption, likely due to better infrastructure and higher awareness.
 <p align="center">
-  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+  <img src="3-Results/1-Top10 Counties by EV Population.png" width="400" alt="EMSI Job Change Dashboard"/>
 </p>
+---
 
 2. **Brand Competition: Market Share and Leaders**
    - **Dominant Brands:** **Tesla** is the clear market leader with the highest number of registered EVs, significantly outpacing competitors like **Chevrolet**, **Nissan**, and **Ford**.
