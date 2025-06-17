@@ -43,12 +43,12 @@ This project analyzes Washington State's electric vehicle (EV) registration data
      - Saving cleaned datasets as '.csv'
 
 2. **Analysis Dimensions**:
-   - **Market Overview:** Showcase the overall distribution of electric vehicles in Washington State, highlighting hotspots
-   - **Brand Competition:** Analyze the market share of each brand and identify market leaders and emerging competitors
-   - **Technological Evolution:** Showcase the progressive trends in the range of electric vehicles and compare the performance of different types of vehicles
-   - **Policy Impact:** Explore the influence of policy incentives (such as CAFV qualifications) on the popularization of electric vehicles
-   - **Consumer Insights:** Revealing consumer preference patterns to provide a basis for marketing
-   - **Future Outlook:** Predict the future development direction based on the current trend and put forward suggestions
+   - **🗺️ Market Overview:** Showcase the overall distribution of electric vehicles in Washington State, highlighting hotspots
+   - **🏁 Brand Competition:** Analyze the market share of each brand and identify market leaders and emerging competitors
+   - **⚙️ Technological Evolution:** Showcase the progressive trends in the range of electric vehicles and compare the performance of different types of vehicles
+   - **🏛️ Policy Impact:** Explore the influence of policy incentives (such as CAFV qualifications) on the popularization of electric vehicles
+   - **👥 Consumer Insights:** Revealing consumer preference patterns to provide a basis for marketing
+   - **🔮 Future Outlook:** Predict the future development direction based on the current trend and put forward suggestions
 
 3. **Visualization**:
    - Created bar/line/pie charts using Matplotlib/Seaborn/Plotly
