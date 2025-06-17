@@ -77,7 +77,9 @@ This project analyzes Washington State's electric vehicle (EV) registration data
    - **Vehicle Types:** Battery Electric Vehicles (BEVs) dominate the market (**79.3%**), far exceeding Plug-in Hybrid Electric Vehicles (PHEVs) (**20.7%**).
    - **Implication:** Consumers prefer BEVs, possibly due to advancements in battery technology and longer ranges.
 <p align="center">
-  <img src="Pic_Inserted/EMSI_JobChange_UK Dashboard.png" width="400" alt="EMSI Job Change Dashboard"/>
+  <img src="3-Results/4-Electric Range Distribution by Top 10 EV Brands.png" width="400" alt="Electric Range Distribution by Top 10 EV Brands"/>
+  <img src="3-Results/4-Electric Range Distribution by Top 10 EV Brands.png" width="400" alt="Electric Range Distribution by Top 10 EV Brands"/>
+  <img src="3-Results/4-Electric Range Distribution by Top 10 EV Brands.png" width="400" alt="Electric Range Distribution by Top 10 EV Brands"/>
 </p>
 
 4. **Policy Impact: CAFV Eligibility**
