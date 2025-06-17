@@ -23,19 +23,20 @@ This project analyzes Washington State's electric vehicle (EV) registration data
 
 ### 🛠️ Analytical Approach
 1. **Data Processing** (Python):
-   - Cleaned missing values and standardized manufacturer names
-   - Calculated range statistics by model year
-   - Categorized CAFV eligibility status
+   -  Step 1: Data Collection / Loading
+     🧾 Importing basic Lib resources used in this data analysis, like pandas,numpy,matplotlib and seaborn
+     🔁 Loading data from Electric_Vehicle_Population_Data.CSV using pandas.
 
 2. **Analysis Dimensions**:
-   - Geographic distribution by county
-   - Market share by manufacturer
-   - Technology trends (range improvement)
-   - Policy impact analysis
+   - **Market Overview:** Showcase the overall distribution of electric vehicles in Washington State, highlighting hotspots
+   - **Brand Competition:** Analyze the market share of each brand and identify market leaders and emerging competitors
+   - **Technological Evolution:** Showcase the progressive trends in the range of electric vehicles and compare the performance of different types of vehicles
+   - **Policy Impact:** Explore the influence of policy incentives (such as CAFV qualifications) on the popularization of electric vehicles
+   - **Consumer Insights:** Revealing consumer preference patterns to provide a basis for marketing
+   - **Future Outlook:** Predict the future development direction based on the current trend and put forward suggestions
 
 3. **Visualization**:
-   - Created bar/line/pie charts using Matplotlib/Seaborn
-   - Generated geographic heatmaps
+   - Created bar/line/pie charts using Matplotlib/Seaborn/Plotly
 
 ---
 
