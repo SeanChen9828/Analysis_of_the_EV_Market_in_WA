@@ -7,7 +7,7 @@
 ---
 
 ### 🔍 Analysis Overview
-This project analyzes Washington State's electric vehicle (EV) registration data to understand market trends, technology adoption, and policy impacts. Using Python for data processing and visualization, we extracted key insights about EV distribution, brand performance, and eligibility for clean energy incentives.
+This project analyzes Washington State's electric vehicle (EV) registration data to understand market trends, technology adoption, and policy impacts. Using Python for data processing and visualization, key insights about EV distribution, brand performance, and eligibility for clean energy incentives are extracted.
 
 ---
 
